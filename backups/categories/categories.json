@@ -1,0 +1,4083 @@
+[{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a54"
+  },
+  "name": {
+    "en": "Agriculture and Farming",
+    "am": "ግብርና እና እርሻ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a55"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a56"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a57"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959e8"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a3b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a58"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a14"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a39"
+  },
+  "name": {
+    "en": "Air conditioning and Refrigeration",
+    "am": "ማቀዝቀዣ እና ኤየር ኮንዲሽኒንግ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5f"
+  },
+  "name": {
+    "en": "Consultancy",
+    "am": "የማማከር አገልግሎቶች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a24"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a25"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a9b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a94"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959ed"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959f6"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959f7"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a26"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a27"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a40"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a45"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a88"
+  },
+  "name": {
+    "en": "Furniture and Furnishing",
+    "am": "የቤት እና የቢሮ ዕቃዎች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a28"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a2b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a2c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a2e"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2a"
+  },
+  "name": {
+    "en": "General Service Provision",
+    "am": "የጠቅላላ አገልግሎት አቅርቦት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8b"
+  },
+  "name": {
+    "en": "Geotechnical Investigation & Laboratory Testing",
+    "am": "ጂኦ ቴክኒካል ምርመራና እና ላቦራቶሪ ቴስቲንግ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959eb"
+  },
+  "name": {
+    "en": "Government Treasury Bill",
+    "am": "የመንግሥት ግምጃ ቤት ቦንድ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a9a"
+  },
+  "name": {
+    "en": "International Competitive Bidding (ICB)",
+    "am": "የዓለም አቀፍ ጨረታ (አይሲቢ)"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1f"
+  },
+  "name": {
+    "en": "Land Lease & Real Estate",
+    "am": "የመሬት ሊዝ እና ሪል እስቴት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a02"
+  },
+  "name": {
+    "en": "Metal and Metal Working",
+    "am": "ብረታ ብረት እና የብረት ስራ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a78"
+  },
+  "name": {
+    "en": "Plastic Raw Materials and Products",
+    "am": "የፕላስቲክ ጥሬ ዕቃዎች እና ምርቶች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a9c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a9d"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a9e"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a11"
+  },
+  "name": {
+    "en": "Printing and Publishing",
+    "am": "ኅትመት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7b"
+  },
+  "name": {
+    "en": "Safety and Security",
+    "am": "ጥበቃ እና ደህንነት"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a01"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a7c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a7d"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4e"
+  },
+  "name": {
+    "en": "Tender Award Notice",
+    "am": "የጨረታ አሸናፊ ማሳወቂያ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4b"
+  },
+  "name": {
+    "en": "Tents and Camping Equipment",
+    "am": "ድንኳኖች እና የካምፕ መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8c"
+  },
+  "name": {
+    "en": "Test & Measurement Tools",
+    "am": "የሙከራ እና የልኬት መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f8"
+  },
+  "name": {
+    "en": "Tri Wheeler, Motorcycles and Bicycles Purchase",
+    "am": "የባለ ሦስት እግር ተሽከርካሪዎች፣ የሞተር ብስክሌቶች እና የብስክሌቶች ግዥ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f9"
+  },
+  "name": {
+    "en": "Vehicles Purchase",
+    "am": "የተሽከርካሪ ግዥ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f1"
+  },
+  "name": {
+    "en": "Wood and Wood Working",
+    "am": "እንጨትና የእንጨት ስራ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a12"
+  },
+  "name": {
+    "en": "Graphic Design",
+    "am": "ግራፊክ ዲዛይን"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a56"
+  },
+  "name": {
+    "en": "Flora and Horticulture",
+    "am": "ዕፅዋት እና ሆርቲካልቸር"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a57"
+  },
+  "name": {
+    "en": "Animal Feed",
+    "am": "የእንስሳት መኖ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3b"
+  },
+  "name": {
+    "en": "Products and Services",
+    "am": "ምርቶች እና አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5d"
+  },
+  "name": {
+    "en": "Water Well and Pool Cleaning",
+    "am": "የውሃ ጉድጓድ እና ገንዳ ማጽዳት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f2"
+  },
+  "name": {
+    "en": "Sewerage",
+    "am": "የፍሳሽ ማስወገጃ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2f"
+  },
+  "name": {
+    "en": "Building and Finishing Materials",
+    "am": "የግንባታ እና የግንባታ ማጠናቀቂያ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a10"
+  },
+  "name": {
+    "en": "Water Pipes and Fittings",
+    "am": "የውሃ ቱቦዎች እና መገጣጠሚያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a24"
+  },
+  "name": {
+    "en": "Engineering",
+    "am": "የምህንድስና"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a94"
+  },
+  "name": {
+    "en": "Agricultural",
+    "am": "የግብርና"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ed"
+  },
+  "name": {
+    "en": "Other",
+    "am": "ሌላ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a61"
+  },
+  "name": {
+    "en": "Services",
+    "am": "አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3c"
+  },
+  "name": {
+    "en": "Materials",
+    "am": "ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a96"
+  },
+  "name": {
+    "en": "Hydro Power",
+    "am": "ሃይድሮ ፓወር"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a70"
+  },
+  "name": {
+    "en": "Veterinary Equipment and Supplies",
+    "am": "የእንስሳት ሕክምና መሣሪያዎች እና አቅርቦቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4a"
+  },
+  "name": {
+    "en": "Hotel Service Provision",
+    "am": "የሆቴል አገልግሎት አቅርቦት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a31"
+  },
+  "name": {
+    "en": "Computer and Accessories",
+    "am": "ኮምፒውተር እና ተጓዳኝ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1a"
+  },
+  "name": {
+    "en": "Machinery",
+    "am": "ማሽኖች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a75"
+  },
+  "name": {
+    "en": "Secretarial Service",
+    "am": "የጽሕፈት አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a16"
+  },
+  "name": {
+    "en": "Office Machines and Accessories",
+    "am": "የቢሮ ማሽኖች እና ተጓዳኝ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a22"
+  },
+  "name": {
+    "en": "Pesticides, Insecticides and Herbicides",
+    "am": "ፀረ ተባይ መድኃኒቶች፣ ፀረ ነፍሳት መድሃኒቶች እና ፀረ አረም መድሃኒቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a9d"
+  },
+  "name": {
+    "en": "Plastic Products",
+    "am": "የፕላስቲክ ምርቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a04"
+  },
+  "name": {
+    "en": "Other Sales",
+    "am": "ሌሎች ሽያጮች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6c"
+  },
+  "name": {
+    "en": "Shares and Others Foreclosure",
+    "am": "የአክሲዮን እና የሌሎች ሐራጅ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ec"
+  },
+  "name": {
+    "en": "Disposal Sale",
+    "am": "የማስወገድ ሽያጭ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a32"
+  },
+  "name": {
+    "en": "Business, Industry and Factory Foreclosure",
+    "am": "የንግድ, ኢንዱስትሪ እና ፋብሪካ ሐራጅ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a33"
+  },
+  "name": {
+    "en": "Vehicle and Machinery Foreclosure",
+    "am": "የተሽከርካሪዎች እና የማሽን ሐራጅ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a06"
+  },
+  "name": {
+    "en": "House and Building Sale",
+    "am": "የቤት እና የሕንጻ ሽያጭ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a85"
+  },
+  "name": {
+    "en": "Other Metals",
+    "am": "ሌሎች ብረቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a95"
+  },
+  "name": {
+    "en": "Transportation Service",
+    "am": "የመጓጓዣ አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959fc"
+  },
+  "name": {
+    "en": "Freight Transport",
+    "am": "የጭነት ትራንስፖርት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3a"
+  },
+  "name": {
+    "en": "Accounting and Auditing, Accounting System Design",
+    "am": "የሂሳብ አያያዝ እና የሂሳብ ማስመርመር እና የሂሳብ አያያዝ ስርዓት ዲዛይን"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a68"
+  },
+  "name": {
+    "en": "Art",
+    "am": "ስነ ጥበብ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a92"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a0f"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a35"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a48"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a51"
+  },
+  "name": {
+    "en": "Banking Equipment and Services",
+    "am": "የባንክ መሣሪያዎች እና አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3f"
+  },
+  "name": {
+    "en": "Bid Modification, Amendment and Cancellation",
+    "am": "የጨረታ ማሻሻያ, ማስተካካያ እና ስረዛ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a21"
+  },
+  "name": {
+    "en": "Chemicals and Reagents",
+    "am": "ኬሚካሎች እና ሪኤጀንቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a59"
+  },
+  "name": {
+    "en": "Construction and Water Works",
+    "am": "ግንባታ እና የውሃ ስራዎች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a5a"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a5b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a5c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a5d"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a65"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a8e"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a8f"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959f2"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959f3"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959f4"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a2f"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a38"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a97"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a98"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a10"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a47"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a34"
+  },
+  "name": {
+    "en": "Food Items and Drinks",
+    "am": "ምግብ እና መጠጦች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2d"
+  },
+  "name": {
+    "en": "Interior Design Service and Material",
+    "am": "የኢንቴሪየር ዲዛይን አገልግሎት እና ቁሶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4c"
+  },
+  "name": {
+    "en": "Labour Outsourcing Services",
+    "am": "የሠራተኛ አውትሶርሲንግ አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a71"
+  },
+  "name": {
+    "en": "Maintenance and Repair",
+    "am": "ጥገና  እና ዕድሳት"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a18"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a1a"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a72"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a1b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a1c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a1d"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a99"
+  },
+  "name": {
+    "en": "Materials",
+    "am": "ቁሶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a76"
+  },
+  "name": {
+    "en": "Pest Control and Fumigants",
+    "am": "የተባይ መቆጣጠሪያ እና ጽዳት"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a77"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a22"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8a"
+  },
+  "name": {
+    "en": "Quality Assurance Services",
+    "am": "የጥራት ማረጋገጫ አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6b"
+  },
+  "name": {
+    "en": "Sales, Disposals and Foreclosure",
+    "am": "ሽያጭ፣ ማስወገድ እና ሐራጅ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a04"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a6c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959ec"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a32"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a33"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a41"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a05"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a06"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ee"
+  },
+  "name": {
+    "en": "Spare Parts and Car Decoration Materials",
+    "am": "መለዋወጫዎች  እና የመኪና ጌጣጌጥ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959fd"
+  },
+  "name": {
+    "en": "Textile, Garment and Leather",
+    "am": "ጨርቃ ጨርቅ፣ አልባሳት እና የቆዳ ውጤቶች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a90"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a91"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f0"
+  },
+  "name": {
+    "en": "Translation, Editing and Writing",
+    "am": "ትርጉም፣ አርትዖት እና ጽሑፍ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a82"
+  },
+  "name": {
+    "en": "Warehousing, Transit and Transport Service",
+    "am": "የመጋዘን፣ የትራንዚት እና የትራንስፖርት አገልግሎት"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e8959f5"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959fa"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a95"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959fc"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a8d"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0b"
+  },
+  "name": {
+    "en": "Event Organizing and Planning",
+    "am": "ኤቨንት ማቀድ እና ማዘጋጀት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0c"
+  },
+  "name": {
+    "en": "Public Relations",
+    "am": "የህዝብ ግንኙነት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a13"
+  },
+  "name": {
+    "en": "Billboards and Digital Advertising",
+    "am": "ቢልቦርዶች እና ዲጂታል ማስታወቂያ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a15"
+  },
+  "name": {
+    "en": "Printed Advertising Materials",
+    "am": "የታተሙ  የማስታወቂያ ቁሳቁሶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a58"
+  },
+  "name": {
+    "en": "Poultry, Bee and Animal Husbandry",
+    "am": "የዶሮ እርባታ፣ የንብ ማነብ እና የከብት እርባታ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a35"
+  },
+  "name": {
+    "en": "Music and Entertainment",
+    "am": "ሙዚቃ እና መዝናኛ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5a"
+  },
+  "name": {
+    "en": "Building Construction",
+    "am": "የሕንጻ ግንባታ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8e"
+  },
+  "name": {
+    "en": "Water Construction",
+    "am": "የዉሃ ግንባታ ሥራዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a25"
+  },
+  "name": {
+    "en": "Financial",
+    "am": "የፋይናንስ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a9b"
+  },
+  "name": {
+    "en": "Environmental",
+    "am": "አካባቢያዊ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f7"
+  },
+  "name": {
+    "en": "Health Related",
+    "am": "የጤና እና ከጤና ጋር የተዛመደ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a26"
+  },
+  "name": {
+    "en": "Legal",
+    "am": "የሕግ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a45"
+  },
+  "name": {
+    "en": "Social and Public Policy",
+    "am": "የማህበራዊ እና የህዝብ ፖሊሲ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a83"
+  },
+  "name": {
+    "en": "Pumps, Motors and Compressors",
+    "am": "ፓምፖች፣ ሞተሮች እና ኮምፖሬሰሮች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a81"
+  },
+  "name": {
+    "en": "Coal",
+    "am": "የድንጋይ ከሰል"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a84"
+  },
+  "name": {
+    "en": "Firewood",
+    "am": "የማገዶ እንጨት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a28"
+  },
+  "name": {
+    "en": "Home Appliance and Supplies",
+    "am": "የቤት ውስጥ እቃዎች እና አቅርቦቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2b"
+  },
+  "name": {
+    "en": "House Furniture",
+    "am": "የቤት ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2c"
+  },
+  "name": {
+    "en": "Office Furniture",
+    "am": "የቢሮ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6f"
+  },
+  "name": {
+    "en": "Pharmaceutical Products",
+    "am": "የመድሃኒት ምርቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a72"
+  },
+  "name": {
+    "en": "Office Machines and Computers",
+    "am": "የቢሮ ማሽኖች እና ኮምፒውተሮች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1c"
+  },
+  "name": {
+    "en": "Furniture",
+    "am": "የቤት እና የቢሮ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a66"
+  },
+  "name": {
+    "en": "Equipment and Accessories",
+    "am": "መሣሪያዎች እና ተጓዳኝ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a77"
+  },
+  "name": {
+    "en": "Pest Control and Fumigation",
+    "am": "የተባይ መቆጣጠሪያ እና ማጽዳት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a9e"
+  },
+  "name": {
+    "en": "Plastic Raw Materials",
+    "am": "የፕላስቲክ ጥሬ እቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a09"
+  },
+  "name": {
+    "en": "Vehicle",
+    "am": "ተሽከርካሪ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a08"
+  },
+  "name": {
+    "en": "Construction Machinery",
+    "am": "የግንባታ ማሽኖች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7c"
+  },
+  "name": {
+    "en": "Equipment",
+    "am": "መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a41"
+  },
+  "name": {
+    "en": "House and Building Foreclosure",
+    "am": "የቤት እና የህንጻ ሐራጅ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7f"
+  },
+  "name": {
+    "en": "Aluminium Products",
+    "am": "የአልሙኒየም ምርቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a00"
+  },
+  "name": {
+    "en": "Steel Raw Materials and Products",
+    "am": "የብረት ጥሬ ዕቃዎች እና ምርቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f5"
+  },
+  "name": {
+    "en": "Warehouse and Storage Service",
+    "am": "የመጋዘን እና የማከማቻ አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8d"
+  },
+  "name": {
+    "en": "Air Cargo Service",
+    "am": "የአየር ትራንስፖርት አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a52"
+  },
+  "name": {
+    "en": "Advertising and Promotion",
+    "am": "ማስታወቂያ እና ፕሮሞሽን"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a53"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a0b"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a0c"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a0d"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a12"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a13"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a15"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6a"
+  },
+  "name": {
+    "en": "Catering and Cafeteria Services",
+    "am": "የምግብ ዝግጅት እና የካፊቴሪያ አገልግሎቶች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a43"
+  },
+  "name": {
+    "en": "Consumable Goods",
+    "am": "አላቂ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a60"
+  },
+  "name": {
+    "en": "Education and Training",
+    "am": "ትምህርት እና ስልጠና"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a61"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a3c"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a69"
+  },
+  "name": {
+    "en": "Food and Beverage",
+    "am": "ምግብና መጠጥ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4d"
+  },
+  "name": {
+    "en": "Fuel and Lubricants",
+    "am": "ነዳጅ እና ቅባቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a46"
+  },
+  "name": {
+    "en": "Gardening and Landscaping",
+    "am": "የአትክልት ሥራ እና ግቢ ማስዋብ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a86"
+  },
+  "name": {
+    "en": "Hospitality, Tour and Travel",
+    "am": "እንግዳ መቀበል እና ማስተናገድ፣ ጉብኝት እና ጉዞ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e8959fb"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a49"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a4a"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a50"
+  },
+  "name": {
+    "en": "Humanitarian Aid Supply, Relief Items",
+    "am": "የሠብዓዊ እርዳታ አቅርቦት፣ የእርዳታ እቃዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5e"
+  },
+  "name": {
+    "en": "IT and Telecom",
+    "am": "አይቲ እና ቴሌኮም"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a87"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959ff"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a31"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e8959fe"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a03"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a23"
+  },
+  "name": {
+    "en": "Insurance Service",
+    "am": "የመድን አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a17"
+  },
+  "name": {
+    "en": "Mineral and Natural Resources",
+    "am": "ማዕድን እና የተፈጥሮ ሀብቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a73"
+  },
+  "name": {
+    "en": "Office Supplies and Services",
+    "am": "የቢሮ አላቂ ዕቃዎች እና አገልግሎቶች"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a74"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a75"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a16"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a89"
+  },
+  "name": {
+    "en": "Personal Care Products and Services",
+    "am": "የንጽህና መጠበቂያ ምርቶች እና አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ea"
+  },
+  "name": {
+    "en": "Raw materials",
+    "am": "ጥሬ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a79"
+  },
+  "name": {
+    "en": "Rent",
+    "am": "ኪራይ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a07"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a09"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a7a"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a08"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a0a"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ef"
+  },
+  "name": {
+    "en": "Sport Materials and Equipment",
+    "am": "የስፖርት ዕቃዎች እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a53"
+  },
+  "name": {
+    "en": "Public Address Systems",
+    "am": "የፐብሊክ አድረስ ሲስተሞች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a55"
+  },
+  "name": {
+    "en": "Raw Materials and Supplies",
+    "am": "ጥሬ ዕቃዎች እና አቅርቦቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a92"
+  },
+  "name": {
+    "en": "Musical Instruments",
+    "am": "የሙዚቃ መሳሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0f"
+  },
+  "name": {
+    "en": "Audio Visual, Photography and Filming Service and Equipment",
+    "am": "የኦዲዮ ቪዥዋል, የፎቶግራፍ እና የፊልም አገልግሎት እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a48"
+  },
+  "name": {
+    "en": "Fine Art, Antiques, Crafts",
+    "am": "ድንቅ ጥበብ፣ ቅርሶች (የቆዩ ዕቃዎች)፣ ዕደ-ጥበብ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5c"
+  },
+  "name": {
+    "en": "Water System Installation",
+    "am": "የውሃ ሲስተም ተከላ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a65"
+  },
+  "name": {
+    "en": "Architectural and Construction Design",
+    "am": "የኪነ-ሕንጻ እና የግንባታ ዲዛይን"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a40"
+  },
+  "name": {
+    "en": "Organizational",
+    "am": "የድርጅት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3d"
+  },
+  "name": {
+    "en": "Equipment and Accessories",
+    "am": "መሣሪያዎች እና ተጓዳኝ ዕቃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a64"
+  },
+  "name": {
+    "en": "Solar and Photovoltaic",
+    "am": "ሶላር እና ፎቶቮልቴክ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a2e"
+  },
+  "name": {
+    "en": "Carpets and Curtains",
+    "am": "ምንጣፍ እና መጋረጃዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a29"
+  },
+  "name": {
+    "en": "Health Related Services and Materials",
+    "am": "የጤና እና የጤና-ነክ አገልግሎቶች እና ቁሳቁሶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959fb"
+  },
+  "name": {
+    "en": "Tour and Travel",
+    "am": "ጉብኝት እና ጉዞ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a87"
+  },
+  "name": {
+    "en": "Telecommunication Service",
+    "am": "የቴሌኮሙኒኬሽን አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a18"
+  },
+  "name": {
+    "en": "Others",
+    "am": "ሌሎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a74"
+  },
+  "name": {
+    "en": "Stationery",
+    "am": "የጽሕፈት መሳሪያ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a9c"
+  },
+  "name": {
+    "en": "Foam Mattress",
+    "am": "ፎም ማትረስ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7a"
+  },
+  "name": {
+    "en": "Machinery and Equipment",
+    "am": "ማሽኖች እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0a"
+  },
+  "name": {
+    "en": "House, Building and Warehouse",
+    "am": "ቤት፣ ህንፃ እና መጋዘን"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7d"
+  },
+  "name": {
+    "en": "Disposal of Hazardous Waste",
+    "am": "አደገኛ እና ጎጂ ቆሻሻን ማስወገድ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a80"
+  },
+  "name": {
+    "en": "Aluminium Works and Installation",
+    "am": "የአሉሚኒየም ሥራዎች እና ተከላ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a91"
+  },
+  "name": {
+    "en": "Textile, Garments and Uniforms",
+    "am": "የተለያዩ ጨርቃጨርቅ፣ አልባሳት እና የደንብ ልብሶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a30"
+  },
+  "name": {
+    "en": "Cleaning and Janitorial Equipment and Service",
+    "am": "የጽዳት ዕቃዎች እና የጽዳት አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a44"
+  },
+  "name": {
+    "en": "Courier Services",
+    "am": "የኩሪየር (የመልዕክት) አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959e9"
+  },
+  "name": {
+    "en": "Distribution of Different products",
+    "am": "የተለያዩ ምርቶች ስርጭት እና ማከፋፈል"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a62"
+  },
+  "name": {
+    "en": "Electrical, Electromechanical and Electronics",
+    "am": "ኤሌክትሪክ፣ ኤሌክትሮ መካኒካል እና ኤሌክትሮኒክስ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a3d"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a37"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a83"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a63"
+  },
+  "name": {
+    "en": "Energy, Power and Electricity",
+    "am": "ኃይል እና ኤሌክትሪክ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a96"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a64"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a81"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a84"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a3e"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a42"
+  },
+  "name": {
+    "en": "Hand Tools and Workshop Equipment",
+    "am": "የእጅ መሣሪያዎች እና የዎርክሾፕ መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6e"
+  },
+  "name": {
+    "en": "Health Care, Medical Industry",
+    "am": "የጤና እና ሕክምና ኢንዱስትሪ"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a6f"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a29"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a70"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a19"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1e"
+  },
+  "name": {
+    "en": "Industrial Machinery Provision and Installation",
+    "am": "የኢንዱስትሪ ማሽኖች አቅርቦት እና ተከላ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a6d"
+  },
+  "name": {
+    "en": "Kitchen Equipment",
+    "am": "የምግብ ቤት (የኩሽና) ቁሳቁሶች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a20"
+  },
+  "name": {
+    "en": "Laboratory Equipment and Chemicals",
+    "am": "የላቦራቶሪ ቁሳቁሶች እና ኬሚካሎች"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a67"
+  },
+  "name": {
+    "en": "Mechanical",
+    "am": "ሜካኒካል"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a36"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a66"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0e"
+  },
+  "name": {
+    "en": "Packaging and Labelling",
+    "am": "ማሸግ እና መለያ መስጠት"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a4f"
+  },
+  "name": {
+    "en": "Privatization",
+    "am": "ወደ ግል ይዞታ ማዞር"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a93"
+  },
+  "name": {
+    "en": "Sanitary and Ceramics",
+    "am": "የመጻዳጃ ቤት ዕቃዎች እና ሴራሚክስ"
+  },
+  "isParent": false,
+  "hasParent": false,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a7e"
+  },
+  "name": {
+    "en": "Steel, Metals and Aluminium",
+    "am": "ብረታ ብረት እና አልሙኒየም"
+  },
+  "isParent": true,
+  "hasParent": false,
+  "children": [
+    {
+      "$oid": "61bbe243cfb36d443e895a7f"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a80"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a85"
+    },
+    {
+      "$oid": "61bbe243cfb36d443e895a00"
+    }
+  ],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a0d"
+  },
+  "name": {
+    "en": "Promotional Items",
+    "am": "የፕሮሞሽን ዕቃዎች እና ቁሶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959e8"
+  },
+  "name": {
+    "en": "Live Animals",
+    "am": "የቁም እንስሳት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a14"
+  },
+  "name": {
+    "en": "Machinery and Equipment",
+    "am": "ማሽኖች እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a5b"
+  },
+  "name": {
+    "en": "Road and Bridge Construction",
+    "am": "የመንገድ እና ድልድይ ግንባታ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a8f"
+  },
+  "name": {
+    "en": "Irrigation Works",
+    "am": "የመስኖ ሥራዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f3"
+  },
+  "name": {
+    "en": "Water Engineering Machinery and Equipment",
+    "am": "የውሃ ኢንጂነሪንግ ማሽኖች እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f4"
+  },
+  "name": {
+    "en": "Water Well Drilling",
+    "am": "የውሃ ጉድጓድ ቁፋሮ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a38"
+  },
+  "name": {
+    "en": "Contract Administration and Supervision",
+    "am": "የኮንትራት አስተዳደርና ቁጥጥር"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a97"
+  },
+  "name": {
+    "en": "Finishig Works",
+    "am": "የማጠናቀቂያ ሥራዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a98"
+  },
+  "name": {
+    "en": "Water Proofing Works",
+    "am": "የውሃ ሥርገት መከላከል ሥራዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a47"
+  },
+  "name": {
+    "en": "Construction Machinery and Equipment",
+    "am": "የግንባታ ማሽኖች እና መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959f6"
+  },
+  "name": {
+    "en": "ICT",
+    "am": "አይሲቲ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a27"
+  },
+  "name": {
+    "en": "Academic",
+    "am": "ትምሕርታዊ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a37"
+  },
+  "name": {
+    "en": "Installation, Maintenance and Other Engineering Services",
+    "am": "ተከላ፣ ጥገና እና ሌሎች የምህንድስና አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a3e"
+  },
+  "name": {
+    "en": "Generators",
+    "am": "ጄኔሬተሮች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a19"
+  },
+  "name": {
+    "en": "Medical Equipment and Supplies",
+    "am": "የህክምና መሣሪያዎች እና አቅርቦቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a49"
+  },
+  "name": {
+    "en": "Air Ticket",
+    "am": "የአውሮፕላን ትኬት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959ff"
+  },
+  "name": {
+    "en": "Software Provision, Development and Web Design",
+    "am": "የሶፍትዌር አቅርቦት እና ልማት እና የድረ-ገጽ ዲዛይን"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959fe"
+  },
+  "name": {
+    "en": "Telecommunication  Equipment",
+    "am": "የቴሌኮሙኒኬሽን መሣሪያዎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a03"
+  },
+  "name": {
+    "en": "Networking Equipment and Installation",
+    "am": "የኔትዎርኪንግ መሳሪያዎች እና ዝርጋታ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1b"
+  },
+  "name": {
+    "en": "Vehicle (garage service)",
+    "am": "ተሽከርካሪ (የጋራዥ አገልግሎት)"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a1d"
+  },
+  "name": {
+    "en": "House and Building",
+    "am": "ቤት እና ህንፃ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a36"
+  },
+  "name": {
+    "en": "Installation, Maintenance and Other Engineering Services",
+    "am": "ተከላ፣ ጥገና እና ሌሎች የምህንድስና አገልግሎቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a07"
+  },
+  "name": {
+    "en": "Others",
+    "am": "ሌሎች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a01"
+  },
+  "name": {
+    "en": "Service",
+    "am": "አገልግሎት"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a05"
+  },
+  "name": {
+    "en": "Vehicle and Machinery Sale",
+    "am": "የተሽከርካሪ እና የማሽን ሽያጭ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e895a90"
+  },
+  "name": {
+    "en": "Shoes and Other Leather Products",
+    "am": "ጫማዎችና ሌሎች የቆዳ ዉጤቶች"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe243cfb36d443e8959fa"
+  },
+  "name": {
+    "en": "Transit, Customs Clearing, Packing and Forwarding",
+    "am": "ትራንዚት፣ የጉምሩክ ጉዳይ ማስፈጸም፣ ማሸግ እና ማስተላለፍ"
+  },
+  "isParent": false,
+  "hasParent": true,
+  "children": [],
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-04-26T15:59:35.459Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,22 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
+const tender_1 = require("../services/tender");
+const bookmarked_tender_1 = require("../services/bookmarked_tender");
+const is_auth_1 = __importDefault(require("../middleware/is_auth"));
+const role_permission_1 = require("../middleware/role_permission");
+const router = express_1.default.Router();
+router.get('/scrappe', tender_1.scrappeTenders);
+router.get('/', is_auth_1.default, tender_1.getTender);
+router.get('/bookmark', is_auth_1.default, bookmarked_tender_1.getBookmarkedTender);
+router.post('/bookmark', is_auth_1.default, bookmarked_tender_1.toggleBookmarkedTender);
+router.get('/checkBookmark', is_auth_1.default, bookmarked_tender_1.checkBookmarked);
+router.put('/toggleActiveStatus', is_auth_1.default, role_permission_1.allStaffRoles, tender_1.toggleActiveStatus);
+router.put('/togglePublished', is_auth_1.default, role_permission_1.allStaffRoles, tender_1.toggleIsPublished);
+router.put('/toggleFeatured', is_auth_1.default, role_permission_1.allStaffRoles, tender_1.toggleIsFeatured);
+router.put('/view', is_auth_1.default, tender_1.viewTender);
+router.delete('/delete', is_auth_1.default, role_permission_1.allStaffRoles, tender_1.toggleDelete);
+exports.default = router;

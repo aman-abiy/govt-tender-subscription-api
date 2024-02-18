@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "name": {
+    "en": "Ethiopia",
+    "am": "ኢትዮጵያ"
+  },
+  "slug": "ethiopia",
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:46:47.497Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac2"
+  },
+  "name": {
+    "en": "Addis Ababa",
+    "am": "አዲስ አበባ"
+  },
+  "slug": "addis-ababa",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:54:32.239Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac3"
+  },
+  "name": {
+    "en": "Afar",
+    "am": "አፋር"
+  },
+  "slug": "afar",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:56:57.735Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac4"
+  },
+  "name": {
+    "en": "Amhara",
+    "am": "አማራ"
+  },
+  "slug": "amhara",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:57:23.881Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac5"
+  },
+  "name": {
+    "en": "Beneshangul Gumuz",
+    "am": "ቤኒሻንጉል ጉምዝ"
+  },
+  "slug": "beneshangul-gumuz",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:57:57.021Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac6"
+  },
+  "name": {
+    "en": "Dire Dawa",
+    "am": "ድሬዳዋ"
+  },
+  "slug": "dire-dawa",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:58:20.428Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac7"
+  },
+  "name": {
+    "en": "Gambela",
+    "am": "ጋምቤላ"
+  },
+  "slug": "gambela",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T17:59:03.551Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac8"
+  },
+  "name": {
+    "en": "Harari",
+    "am": "ሐረሪ"
+  },
+  "slug": "harari",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:00:09.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895ac9"
+  },
+  "name": {
+    "en": "Oromia",
+    "am": "ኦሮሚያ"
+  },
+  "slug": "oromia",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:07:07.797Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895aca"
+  },
+  "name": {
+    "en": "SNNPR",
+    "am": "ደ/ብ/ብ/ሕ/ክ/መ/"
+  },
+  "slug": "snnpr",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:07:39.283Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895acb"
+  },
+  "name": {
+    "en": "Somali",
+    "am": "ሶማሊ"
+  },
+  "slug": "somali",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:08:04.842Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe275cfb36d443e895acc"
+  },
+  "name": {
+    "en": "Tigray",
+    "am": "ትግራይ"
+  },
+  "slug": "tigray",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:08:34.762Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c3132b9fea8e43230df754"
+  },
+  "name": {
+    "en": "Sidama",
+    "am": "ሲዳማ"
+  },
+  "slug": "sidama",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:09:11.254Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e91713f6a8806159003ce2"
+  },
+  "name": {
+    "en": "South West Ethiopia Region",
+    "am": "ደቡብ ምዕራብ ኢትዮጵያ ክልል"
+  },
+  "slug": "south-west-ethiopia-region",
+  "isActive": true,
+  "isDeleted": false,
+  "country": {
+    "$oid": "6241f48e30e321b023b5e2db"
+  },
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-28T18:09:43.384Z"
+  },
+  "__v": 0
+}]

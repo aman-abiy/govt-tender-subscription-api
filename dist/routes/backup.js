@@ -1,0 +1,21 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = __importDefault(require("express"));
+const is_auth_1 = __importDefault(require("../middleware/is_auth"));
+const backup_1 = require("../services/backup");
+const role_permission_1 = require("../middleware/role_permission");
+const router = express_1.default.Router();
+router.post('/account', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupAccounts);
+router.post('/country', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupCountries);
+router.post('/language', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupLanguages);
+router.post('/region', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupRegions);
+router.post('/subscription', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupSubscriptions);
+router.post('/subscriptionPlan', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupSubscriptions);
+router.post('/payment', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupPayments);
+router.post('/paymentMethod', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupPaymentMethods);
+router.post('/tenderSource', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupTenderSources);
+router.post('/tender', is_auth_1.default, role_permission_1.aboveAndIncAdminRole, backup_1.backupTenders);
+exports.default = router;

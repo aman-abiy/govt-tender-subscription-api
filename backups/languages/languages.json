@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "61bbe23bcfb36d443e8959e4"
+  },
+  "iso": "am",
+  "iso3": "amh",
+  "name": "አማርኛ",
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-03-27T20:13:45.448Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe23bcfb36d443e8959e5"
+  },
+  "iso": "en",
+  "iso3": "eng",
+  "name": "English",
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-03-27T20:14:47.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe23bcfb36d443e8959e6"
+  },
+  "iso": "orm",
+  "iso3": "orm",
+  "name": "Afaan Oromoo",
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-03-27T20:15:48.245Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe23bcfb36d443e8959e7"
+  },
+  "iso": "ti",
+  "iso3": "tir",
+  "name": "ትግርኛ",
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdAt": {
+    "$date": "2022-03-27T20:16:53.783Z"
+  },
+  "__v": 0
+}]

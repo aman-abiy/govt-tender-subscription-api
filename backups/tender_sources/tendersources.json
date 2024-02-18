@@ -1,0 +1,325 @@
+[{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aa9"
+  },
+  "name": {
+    "en": "2merkato.com",
+    "am": "ቱመርካቶ.ኮም"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:52:47.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aaa"
+  },
+  "name": {
+    "en": "The Reporter",
+    "am": "ዘ ሪፖርተር"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:55:46.514Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aab"
+  },
+  "name": {
+    "en": "Ethiopian Herald",
+    "am": "ኢትዮጵያን ሔራልድ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:56:00.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aac"
+  },
+  "name": {
+    "en": "Fortune",
+    "am": "ፎርቹን"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:56:35.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aad"
+  },
+  "name": {
+    "en": "Capital",
+    "am": "ካፒታል"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:57:00.479Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aae"
+  },
+  "name": {
+    "en": "The Daily Monitor",
+    "am": "ዘ ዴይሊ ሞኒተር"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:58:00.035Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aaf"
+  },
+  "name": {
+    "en": "Addis Zemen",
+    "am": "አዲስ ዘመን"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:58:25.170Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab0"
+  },
+  "name": {
+    "en": "Addis Lessan",
+    "am": "አዲስ ልሳን"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:58:41.834Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab1"
+  },
+  "name": {
+    "en": "ethiotelecom",
+    "am": "ኢትዮ ቴሌኮም"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:58:57.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab2"
+  },
+  "name": {
+    "en": "Reporter",
+    "am": "ሪፖርተር"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:59:13.133Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab3"
+  },
+  "name": {
+    "en": "Addis Admass",
+    "am": "አዲስ አድማስ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T06:59:30.292Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab4"
+  },
+  "name": {
+    "en": "Be'kur",
+    "am": "በኩር"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:00:03.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab5"
+  },
+  "name": {
+    "en": "Yedebub Nigat",
+    "am": "የደቡብ ንጋት"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:00:29.725Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab6"
+  },
+  "name": {
+    "en": "Kallacha Oromiyaa",
+    "am": "ከለቻ ኦሮሚያ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:00:46.591Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab7"
+  },
+  "name": {
+    "en": "Mekalih Tigray",
+    "am": "መቓልሕ ትግራይ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:01:12.109Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab8"
+  },
+  "name": {
+    "en": "Melekite Dire",
+    "am": "መልዕክተ ድሬ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:01:30.631Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895ab9"
+  },
+  "name": {
+    "en": "BARRIISAA",
+    "am": "ባሪሳ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:01:49.291Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bbe254cfb36d443e895aba"
+  },
+  "name": {
+    "en": "Addis Maleda",
+    "am": "አዲስ ማለዳ"
+  },
+  "isActive": true,
+  "isDeleted": false,
+  "lastUpdatedAt": null,
+  "createdBy": {
+    "$oid": "6218c6437afaa15c03330f95"
+  },
+  "createdAt": {
+    "$date": "2022-03-29T07:02:20.140Z"
+  },
+  "__v": 0
+}]
